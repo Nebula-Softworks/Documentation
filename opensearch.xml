@@ -4,7 +4,7 @@
   <ShortName>Docs</ShortName>
   <Description>Search Docs</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://nebula-softworks.github.io/docs/assets/favicons/favicon.ico?v=5</Image>
+  <Image width="16" height="16" type="image/x-icon">https://nebula-softworks.github.io/docs/https://framerusercontent.com/images/w2Gt9YpEcud3agbKJzxPsdv13zk.png</Image>
   <Url type="text/html" method="get" template="https://nebula-softworks.github.io/docs/search?q={searchTerms}"/>
   <Url type="application/opensearchdescription+xml" rel="self" template="https://nebula-softworks.github.io/docs/opensearch.xml" />
   <moz:SearchForm>https://nebula-softworks.github.io/docs/</moz:SearchForm>
